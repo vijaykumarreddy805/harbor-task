@@ -1,0 +1,6 @@
+[task]
+name = "json-filter-task"
+description = "Filter users from a JSON file based on age criteria"
+difficulty = "easy"
+memory_mb = 512
+storage_mb = 256
